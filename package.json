@@ -1,0 +1,11 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Vitória",
+  "license": "ISC"
+}
